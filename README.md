@@ -1,4 +1,5 @@
 # Bat-Population-Decline
+## MIT Break Through Tech AI
 Our goal is to predict the presence of White-Nose Syndrome (WNS) in bat populations using machine learning techniques. It integrates data from three bat population datasets, which include geolocation, acoustic, and timestamp data, and focuses on building predictive models to analyze the bat population decline in North America.
 
 
